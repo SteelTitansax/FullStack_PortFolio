@@ -1,0 +1,615 @@
+
+export const skills = [ 
+    {
+        skill: 'Html & CSS',
+        percentage : 100,
+    },
+    {
+        skill: 'JavaScript',
+        percentage : 100,
+    },{
+        skill: 'Java',
+        percentage : 100,
+    },
+    {
+        skill: 'React',
+        percentage : 80,
+    }, {
+        skill: 'Angular',
+        percentage : 60,
+    }, {
+        skill: 'NodeJS',
+        percentage : 60,
+    }, {
+        skill: 'Liquid',
+        percentage : 60,
+    }, {
+        skill: 'Jquery',
+        percentage : 60,
+    }, {
+        skill: 'Python',
+        percentage : 50,
+    }
+]
+
+export const fullstackSkills = [ 
+    {
+        skill: 'Html & CSS & JavaScript',
+        percentage : 100,
+    },
+    {
+        skill: 'React',
+        percentage : 100,
+    },{
+        skill: 'Java & Python',
+        percentage : 100,
+    }
+    
+]
+
+
+export const nextSkills = [ 
+    {
+        skill: 'Html & CSS & JavaScript',
+        percentage : 100,
+    },
+    {
+        skill: 'React',
+        percentage : 100,
+    },
+     {
+        skill: 'Next',
+        percentage : 80,
+    }
+]
+
+export const reactSkills = [ 
+    {
+        skill: 'Components',
+        percentage : 100,
+    },
+    {
+        skill: 'Cicle Life',
+        percentage : 100,
+    },{
+        skill: 'Routes',
+        percentage : 100,
+    },
+    {
+        skill: 'Hooks',
+        percentage : 80,
+    }, {
+        skill: 'Testing',
+        percentage : 80,
+    }, {
+        skill: 'Mobile',
+        percentage : 60,
+    }
+]
+
+
+
+export const powerappsSkills = [ 
+    {
+        skill: 'Components',
+        percentage : 100,
+    },
+    {
+        skill: 'Canvas',
+        percentage : 100,
+    },{
+        skill: 'Portals',
+        percentage : 100,
+    }
+]
+
+export const appsheetSkills = [ 
+    {
+        skill: 'Components',
+        percentage : 100,
+    },
+    {
+        skill: 'Canvas',
+        percentage : 100,
+    }
+]
+
+export const angularSkills = [ 
+    {
+        skill: 'Components',
+        percentage : 100,
+    },
+    {
+        skill: 'Cicle Life',
+        percentage : 100,
+    },{
+        skill: 'Routes',
+        percentage : 100,
+    },
+    {
+        skill: 'Structure',
+        percentage : 80,
+    }, {
+        skill: 'Testing',
+        percentage : 80,
+    }, {
+        skill: 'Mobile',
+        percentage : 60,
+    }
+]
+
+
+export const electronSkills = [ 
+    {
+        skill: 'Packages',
+        percentage : 100,
+    },
+    {
+        skill: 'Scripts',
+        percentage : 100,
+    }, {
+        skill: 'Testing',
+        percentage : 60,
+    }
+]
+
+
+
+export const webSkills = [ 
+    {
+        skill: 'HTML & CSS & JavaScript',
+        percentage : 100,
+    }
+    , {
+        skill: 'Hosting',
+        percentage : 80,
+    } , {
+        skill: 'Testing',
+        percentage : 60,
+    }
+]
+
+
+export const nodeSkills = [ 
+    {
+        skill: 'MD5',
+        percentage : 100,
+    },
+    {
+        skill: 'Handlebars',
+        percentage : 100,
+    },{
+        skill: 'Express',
+        percentage : 100,
+    },
+    {
+        skill: 'Packages',
+        percentage : 100,
+    },
+    {
+        skill: 'Scripts',
+        percentage : 100,
+    }, {
+        skill: 'Testing',
+        percentage : 60,
+    }
+]
+
+
+export const experiences = [ 
+    {
+        title: 'Software developer at Seidor - Barcelona/Spain',
+        description : "Web developing with React in an IOT project, developing react components using html, css andJavaScript as a language code and bootstrap,reactstrap, react-bootstrap and material-ui as a css and react frameworks. Back-end works using ASP.NET punctually. Software developing of powerapps using power BI, Office 365, Sharepoint, Powerautomate and other software of the Microsoft package.",
+        from: "Nov 2020",
+        to:"present",
+        url:"https://www.seidor.es/content/seidorweb/es.html"
+    },{
+        title: 'Colaborative Software Software Developer – Glasgow/UK ',
+        description : "Software developing in React and Java SpringBoot in different Open Source projects like plasmaJS and the IngePro project. Contributions to PlasmaJs an Isomorphic webapp coded with using the MERN stack. ",
+        from: "Jan 2020",
+        to:"Nov 2020",
+        url:"http://plasmajs.com/"
+    },
+    ,{
+        title: 'Web Developer at Kinink Park Complex – Glasgow/UK ',
+        description : "Front end developing in Html, Css, JavaScript and Wordpress as a Framework. Using and github as a colaborative software.",
+        from: "Jan 2019",
+        to:"Jan 2020",
+        url:"https://www.kinningparkcomplex.org/"
+    }
+]
+
+
+
+export const fullstackExperiences = [ 
+    {
+        title: 'Colaborative Software Software Developer – Glasgow/UK ',
+        description : "Software developing in React and Java SpringBoot in different Open Source projects like plasmaJS and the IngePro project.",
+        from: "Jan 2020",
+        to:"Nov 2020",
+        url:"http://plasmajs.com/"
+    },
+    {
+        title: 'Colaborative Software Fullstack Developer – Glasgow/UK ',
+        description : "Software developing in Flask in different Open Source projects.",
+        from: "Jan 2021",
+        to:"Sept 2020",
+        url:""
+    }
+    
+]
+
+
+
+
+export const reactExperiences = [ 
+    {
+        title: 'Software developer at Seidor - Barcelona/Spain',
+        description : "Web developing with React in an IOT project, developing react components using html, css andJavaScript as a language code and bootstrap,reactstrap, react-bootstrap and material-ui as a css and react frameworks. Back-end works using ASP.NET punctually. Software developing of powerapps using power BI, Office 365, Sharepoint, Powerautomate and other software of the Microsoft package.",
+        from: "Nov 2020",
+        to:"present",
+        url:"https://www.seidor.es/content/seidorweb/es.html"
+    },{
+        title: 'Colaborative Software Software Developer – Glasgow/UK ',
+        description : "Software developing in React and Java SpringBoot in different Open Source projects like plasmaJS and the IngePro project.",
+        from: "Jan 2020",
+        to:"Nov 2020",
+        url:"http://plasmajs.com/"
+    }
+    
+]
+
+
+
+export const nodeExperiences = [ 
+   {
+        title: 'Colaborative Software Back end Developer – Glasgow/UK ',
+        description : "Software developing in MEAN and MERN stacks in different Open Source projects.",
+        from: "Jan 2021",
+        to:"Sept 2020",
+        url:""
+    }
+    
+]
+
+export const electronExperiences = [ 
+    {
+         title: 'Colaborative Software Back end Developer – Glasgow/UK ',
+         description : "Software developing in Node and Electron.js in different Open Source projects.",
+         from: "Jan 2021",
+         to:"Sept 2020",
+         url:""
+     }
+     
+ ]
+
+
+
+export const nextExperiences = [ 
+    {
+         title: 'Colaborative Software Back end Developer – Glasgow/UK ',
+         description : "Software developing in Node and Next.js in different Open Source projects.",
+         from: "Jan 2021",
+         to:"Sept 2020",
+         url:""
+     }
+     
+ ]
+
+export const angularExperiences = [ 
+    {
+        title: 'Colaborative Software Developer – Glasgow/UK ',
+        description : "Software developing in Angular in different Open Source projects based in the Mean Stack.",
+        from: "Jan 2020",
+        to:"Nov 2020",
+        url:"http://plasmajs.com/"
+    }
+    
+]
+
+export const powerappsExperiences = [ 
+    {
+        title: 'PowerApps software Developer at Seidor – Barcelona/Es ',
+        description : "Software developing canvas apps and Powerapps Portals for different clients at Seidor S.A.",
+        from: "Present",
+        to:"Nov 2020",
+        url:"www.seidor.es"
+    }
+    
+]
+
+
+export const appsheetExperiences = [ 
+    {
+        title: 'Appsheet software Developer – Barcelona/Es ',
+        description : "Software developing canvas apps in collaborative projects.",
+        from: "Present",
+        to:"Nov 2020",
+        url:""
+    }
+    
+]
+
+
+
+export const websiteExperiences = [ 
+    {
+        title: 'Colaborative Software Developer – Glasgow/UK ',
+        description : "Software web developing for different Open Source projects.",
+        from: "Jan 2020",
+        to:"Nov 2020",
+        url:"/websites"
+    }
+    
+]
+
+
+
+
+export const reactNativeProjects= [
+    {
+        name: "React Native Chat",
+        description:"React Native Chat developed with HTML, CSS, Javascript, React Native and Firebase.",
+        image:"chat.jpg",
+        github:"https://github.com/ManuelPortero/React_Native_Agenda"
+    },
+    {
+        name: "React Native Agenda",
+        description:"Agenda app developed in HTML, CSS, JavaScript, React Native and Firebase.",
+        image:"agenda.jpg",
+        github:"https://github.com/ManuelPortero/React_Native_Chat"
+    }
+    
+]
+
+
+export const reactProjects= [
+    {
+        name: "Moderngram",
+        description:"Social network developed in HTML, CSS, Javascript, React and Firebase as a Database.",
+        image:"moderngram.jpg",
+        url:"https://moderngram.vercel.app/",
+        github:"https://github.com/ManuelPortero/moderngram"
+    },
+    {
+        name: "Films Server",
+        description:"Films server front end coded in HTML, CSS, JavaScript, React and ThemovieDb API. ",
+        image:"films-server.png",
+        url:"https://films-server2.vercel.app/",
+        github:"https://github.com/ManuelPortero/filmsServer2"
+    },{
+        name: "React Chat",
+        description:"React Chat coded with React NodeJs Express and Socket.io (Youtube demo)",
+        image:"ReactChat.png", 
+        url:"https://www.youtube.com/watch?v=DvLnhpmG3WI",
+        github:"https://github.com/ManuelPortero/ReactChatFrontend"
+    },{
+        name: "Ecommerce App",
+        description:"Ecommerce App with React NodeJs and Express (Demo not available)",
+        image:"phoneCatallogue.jpg", 
+        url:"https://ecommerce-evolution-m551kpz5t-manuelportero.vercel.app/",
+        github:"https://github.com/ManuelPortero/EcommerceEvolution"
+    },
+    
+]
+
+
+export const angularProjects= [
+    {
+        name: "Angular Todo App",
+        description:"Todo App developed with HTML ,CSS , Javascript and AngularJS(+3) ",
+        image:"Todo-App.jpg",
+        url:"https://todo-app-eta-seven.vercel.app/",
+        github:"https://github.com/ManuelPortero/TodoApp"
+    },
+    {
+        name: "Angular Weather App",
+        description:"Weather App coded in HTML ,CSS, JavaScript, Angular and OpenWeatherMap API",
+        image:"angular-weather-app.jpg",
+        url:"https://angular-weather-app-green.vercel.app/",
+        github:"https://github.com/ManuelPortero/WeatherAoo"
+    },
+    {
+        name: "Ionic Cronometer App",
+        description:"Cronometer App coded in HTML ,CSS, JavaScript and Ionic as a PWA framework",
+        image:"cronometer.jpg",
+        url:"https://ionic2.vercel.app/",
+        github:"https://github.com/ManuelPortero/ionic2"
+    },
+    {
+        name: "Photo Gallery App",
+        description:"Photo Gallery App coded in HTML ,CSS, JavaScript and Ionic as a PWA framework",
+        image:"PhotoGallery.png",
+        url:"https://photogallery-ochre.vercel.app/places",
+        github:"https://github.com/ManuelPortero/ionic1"
+    }
+    
+]
+
+export const nodeProjects= [
+    {
+        name: "Node Social network ",
+        description:"Social network coded with React NodeJs Express and MongoDB ",
+        image:"imgshare.png", 
+        url:"https://www.youtube.com/watch?v=EFF-ZpAvQMM",
+        github:"https://github.com/ManuelPortero/instaManuel"
+    }, {
+        name: "Phone Catallogue ",
+        description:"Phone Catallogue, project coded with React NodeJs and Express ",
+        image:"phoneCatallogue.jpg", 
+        url:"https://www.youtube.com/watch?v=YHu35Y305xw",
+        github:"https://github.com/ManuelPortero/PhoneCatalogueImproved"
+    },
+    
+]
+
+
+export const BlogArticles= [
+    {
+        name: "Power Platform",
+        description:"Introduccion a las tecnologías del entorno Power Platform. PowerApps, Power Automate Power Bi y Virtual Agents",
+        image:"canvas.png",
+        link: "https://www.azurebrains.com/2022/01/31/powerplatform-perspectivas-futuro-parte1/" 
+    }, {
+        name: "Manipulacion Dataverse(1)",
+        description:"Artículo sobre la manipulación de columnas tipo Lookup en Dataverse sobre canvas apps ",
+        image:"Dataverse.jpeg", 
+        link: ""
+    }
+    
+]
+
+
+export const projects = [ 
+    {
+        name: "ReactJS",
+        description:"Please check out the react section of this portfolio",
+        image:"reactjs.jpg",
+        url:"/react",
+    }, {
+        name: "AngularJS",
+        description:"Please check out the AngularJS section of this portfolio",
+        image:"angularjs.jpg",
+        url:"/angular",
+    }, {
+        name: "NodeJS",
+        description:"Please check out the nodeJS section of this portfolio",
+        image:"nodejs.jpg",
+        url:"/node",
+    },  {
+        name: "Full Stack",
+        description:"Please check out the full stack app section of this portfolio (coming soon)",
+        image:"flask.jpeg",
+        url:"/fullstack",
+    },  {
+        name: "PowerApps",
+        description:"Please check out the PowerApps section of this portfolio",
+        image:"canvas.png",
+        url:"/powerapps",
+    },  {
+        name: "Websites",
+        description:"Please check out the websites development section of this portfolio",
+        image:"web.jpg",
+        url:"/websites",
+    }
+
+]
+
+export const webProjects = [
+    {
+        name: "Glasgow Kelvin College",
+        description:"Glasgow Kelvin College website coded in HTML,CSS, JavaScript and Bootstrap as a framework",
+        image:"GKC.png",
+        url:"https://glasgow-kelvin-college.vercel.app/",
+        github:"https://github.com/ManuelPortero/GlasgowKelvinCollege"
+    }, {
+        name: "Bienes y Raices",
+        description:"Bienes y Raices website coded in HTML,CSS, JavaScript and Bootstrap as a framework",
+        image:"BienesRaices.png",
+        url:"https://bienes-raices-nbt6oa6ud-manuelportero.vercel.app/",
+        github:"https://github.com/ManuelPortero/Bienes_Raices"
+    },
+]
+
+export const Otherprojects = [ 
+    {
+        name: "Todo App",
+        description:"Todo App coded in HTML,CSS, JavaScript, Bootstrap and Electron",
+        image:"Electron.png",
+        github:"https://github.com/ManuelPortero/Todo_electron-"
+    }, {
+        name: "Mirror App",
+        description:"Mirror App coded in HTML,CSS, JavaScript, Bootstrap and Electron",
+        image:"Electron2.png",
+        github:"https://github.com/ManuelPortero/Mirror"
+    }
+
+]
+
+export const powerappsProjects = [ 
+    {
+        name: "PowerApps Canvas",
+        description:"Check my canvas apps catallogue",
+        image:"canvas.png",
+        url:"/canvas",
+    }, {
+        name: "PowerApps Portal",
+        description:"Check my portal app catallogue",
+        image:"portals.jpeg",
+        url:"/portals",
+    }
+]
+
+
+export const canvasProjects = [ 
+    {
+        name: "Travel App ",
+        description:"Check my Travel app demo",
+        image:"canvas.png",
+        url:"https://www.youtube.com/watch?v=iwF3f8CD_zE",
+    }, {
+        name: "Helpdesk App",
+        description:"Check my Helpdesk app demo",
+        image:"canvas.png",
+        url:"https://www.youtube.com/watch?v=zOqqiDQbHhU",
+    }, {
+        name: "Warehouse App",
+        description:"Check my Warehouse app demo",
+        image:"canvas.png",
+        url:"https://www.youtube.com/watch?v=78Tk-FcO9zA",
+    }
+]
+
+export const nocodeProjects = [ 
+   {
+        name: "Agenda",
+        description:"Agenda App developed with Appsheet",
+        image:"appsheet1.png",
+        url:"https://www.appsheet.com/start/41f87581-e4aa-4264-9932-0d49d4fa6f5a"
+    }, {
+        name: "Provider App",
+        description:"Provider App developed with Appshet",
+        image:"appsheet2.png",
+        url:"https://www.appsheet.com/start/568a42a8-23ef-4988-8bcd-f39e06bdef01"
+    }
+
+]
+
+
+export const fullstackProjects = [ 
+    
+    {
+        name: "RPA Launcher",
+        description:"RPA Launcher developed with React as front end and Python Flask as back end",
+        image:"flask.jpeg",
+        github:"https://github.com/ManuelPortero/Rpa_automation_app_frontend",
+        url:"https://www.youtube.com/watch?v=8OwVhv0zO_Y"
+
+    }, {
+        name: "Gestor Documental",
+        description:"Gestor Docuemntal coded with React as front end and python Flask as back end (Demo not Ready)",
+        image:"flask.jpeg",
+        github:"https://github.com/ManuelPortero/Gestor_Documental_Python_Flask",
+        url:"/"
+
+    },
+ 
+ ]
+
+ export const nextProjects = [ 
+    {
+         name: "FullStack Portfolio",
+         description:"Portfolio App developed with NextJs",
+         image:"nextjs.jpg",
+         url:"https://github.com/ManuelPortero/Portfolio_NextJS"
+     },
+     {
+        name: "Devops Portfolio",
+         description:"Portfolio App developed with NextJs",
+         image:"nextjs.jpg",
+         url:"https://github.com/ManuelPortero/Devops_Portfolio"
+    }
+
+    
+ 
+ ]
