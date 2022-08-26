@@ -432,13 +432,13 @@ export const nodeProjects= [
         description:"Social network coded with React NodeJs Express and MongoDB ",
         image:"imgshare.png", 
         url:"https://www.youtube.com/watch?v=EFF-ZpAvQMM",
-        github:"https://github.com/ManuelPortero/instaManuel"
+        github:"https://github.com/SteelTitansax/InstaManuel"
     }, {
         name: "Phone Catallogue ",
         description:"Phone Catallogue, project coded with React NodeJs and Express ",
         image:"phoneCatallogue.jpg", 
         url:"https://www.youtube.com/watch?v=YHu35Y305xw",
-        github:"https://github.com/ManuelPortero/PhoneCatalogueImproved"
+        github:"https://github.com/SteelTitansax/PhoneCatallogue"
     },
     
 ]
@@ -501,13 +501,13 @@ export const webProjects = [
         description:"Glasgow Kelvin College website coded in HTML,CSS, JavaScript and Bootstrap as a framework",
         image:"GKC.png",
         url:"https://glasgow-kelvin-college.vercel.app/",
-        github:"https://github.com/ManuelPortero/GlasgowKelvinCollege"
+        github:"https://github.com/SteelTitansax/GKCollege"
     }, {
         name: "Bienes y Raices",
         description:"Bienes y Raices website coded in HTML,CSS, JavaScript and Bootstrap as a framework",
         image:"BienesRaices.png",
         url:"https://bienes-raices-nbt6oa6ud-manuelportero.vercel.app/",
-        github:"https://github.com/ManuelPortero/Bienes_Raices"
+        github:"https://github.com/SteelTitansax/Bienes_Raices"
     },
 ]
 
@@ -582,14 +582,14 @@ export const fullstackProjects = [
         name: "RPA Launcher",
         description:"RPA Launcher developed with React as front end and Python Flask as back end",
         image:"flask.jpeg",
-        github:"https://github.com/ManuelPortero/Rpa_automation_app_frontend",
+        github:"https://github.com/SteelTitansax/Automation_App_Launcher",
         url:"https://www.youtube.com/watch?v=8OwVhv0zO_Y"
 
     }, {
         name: "Gestor Documental",
         description:"Gestor Docuemntal coded with React as front end and python Flask as back end (Demo not Ready)",
         image:"flask.jpeg",
-        github:"https://github.com/ManuelPortero/Gestor_Documental_Python_Flask",
+        github:"https://github.com/SteelTitansax/Gestor_Documental_Flask",
         url:"/"
 
     },
