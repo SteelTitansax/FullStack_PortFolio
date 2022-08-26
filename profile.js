@@ -369,26 +369,26 @@ export const reactProjects= [
         description:"Social network developed in HTML, CSS, Javascript, React and Firebase as a Database.",
         image:"moderngram.jpg",
         url:"https://moderngram.vercel.app/",
-        github:"https://github.com/ManuelPortero/moderngram"
+        github:"https://github.com/SteelTitansax/moderngram"
     },
     {
         name: "Films Server",
         description:"Films server front end coded in HTML, CSS, JavaScript, React and ThemovieDb API. ",
         image:"films-server.png",
         url:"https://films-server2.vercel.app/",
-        github:"https://github.com/ManuelPortero/filmsServer2"
+        github:"https://github.com/SteelTitansax/netlix"
     },{
         name: "React Chat",
         description:"React Chat coded with React NodeJs Express and Socket.io (Youtube demo)",
         image:"ReactChat.png", 
         url:"https://www.youtube.com/watch?v=DvLnhpmG3WI",
-        github:"https://github.com/ManuelPortero/ReactChatFrontend"
+        github:"https://github.com/SteelTitansax/chatReact"
     },{
         name: "Ecommerce App",
         description:"Ecommerce App with React NodeJs and Express (Demo not available)",
         image:"phoneCatallogue.jpg", 
         url:"https://ecommerce-evolution-m551kpz5t-manuelportero.vercel.app/",
-        github:"https://github.com/ManuelPortero/EcommerceEvolution"
+        github:"https://github.com/SteelTitansax/EcommerceReact"
     },
     
 ]
