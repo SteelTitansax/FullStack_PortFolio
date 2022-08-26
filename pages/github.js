@@ -35,7 +35,7 @@ const Github = ({user, statusCode}) => {
 
 export async function getServerSideProps(){
     
-    const res = await fetch('https://api.github.com/users/ManuelPortero')
+    const res = await fetch('https://api.github.com/users/SteelTitansax')
     const data = await res.json();
 
     const statusCode = res.status > 200 ? res.status : false;

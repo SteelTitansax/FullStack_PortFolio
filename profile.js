@@ -7,9 +7,6 @@ export const skills = [
     {
         skill: 'JavaScript',
         percentage : 100,
-    },{
-        skill: 'Java',
-        percentage : 100,
     },
     {
         skill: 'React',
@@ -19,12 +16,6 @@ export const skills = [
         percentage : 60,
     }, {
         skill: 'NodeJS',
-        percentage : 60,
-    }, {
-        skill: 'Liquid',
-        percentage : 60,
-    }, {
-        skill: 'Jquery',
         percentage : 60,
     }, {
         skill: 'Python',
@@ -498,13 +489,13 @@ export const projects = [
 export const webProjects = [
     {
         name: "Glasgow Kelvin College",
-        description:"Glasgow Kelvin College website coded in HTML,CSS, JavaScript and Bootstrap as a framework",
+        description:"Glasgow Kelvin College website coded in HTML,CSS, JavaScript and Bootstrap ",
         image:"GKC.png",
         url:"https://glasgow-kelvin-college.vercel.app/",
         github:"https://github.com/SteelTitansax/GKCollege"
     }, {
         name: "Bienes y Raices",
-        description:"Bienes y Raices website coded in HTML,CSS, JavaScript and Bootstrap as a framework",
+        description:"Bienes y Raices website coded in HTML,CSS, JavaScript and Bootstrap as framework",
         image:"BienesRaices.png",
         url:"https://bienes-raices-nbt6oa6ud-manuelportero.vercel.app/",
         github:"https://github.com/SteelTitansax/Bienes_Raices"
@@ -587,7 +578,7 @@ export const fullstackProjects = [
 
     }, {
         name: "Gestor Documental",
-        description:"Gestor Docuemntal coded with React as front end and python Flask as back end (Demo not Ready)",
+        description:"Gestor Documental coded with React and python Flask (Demo not Ready)",
         image:"flask.jpeg",
         github:"https://github.com/SteelTitansax/Gestor_Documental_Flask",
         url:"/"
