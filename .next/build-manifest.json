@@ -29,16 +29,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/fullstack": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/fullstack.js"
-    ],
-    "/github": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/github.js"
-    ],
     "/websites": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

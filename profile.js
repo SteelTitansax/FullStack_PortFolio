@@ -194,13 +194,7 @@ export const experiences = [
         from: "Nov 2020",
         to:"present",
         url:"https://www.seidor.es/content/seidorweb/es.html"
-    },{
-        title: 'Colaborative Software Software Developer – Glasgow/UK ',
-        description : "Software developing in React and Java SpringBoot in different Open Source projects like plasmaJS and the IngePro project. Contributions to PlasmaJs an Isomorphic webapp coded with using the MERN stack. ",
-        from: "Jan 2020",
-        to:"Nov 2020",
-        url:"http://plasmajs.com/"
-    },
+    }
     ,{
         title: 'Web Developer at Kinink Park Complex – Glasgow/UK ',
         description : "Front end developing in Html, Css, JavaScript and Wordpress as a Framework. Using and github as a colaborative software.",
