@@ -351,13 +351,13 @@ export const reactNativeProjects= [
         name: "React Native Chat",
         description:"React Native Chat developed with HTML, CSS, Javascript, React Native and Firebase.",
         image:"chat.jpg",
-        github:"https://github.com/ManuelPortero/React_Native_Agenda"
+        github:"https://github.com/SteelTitansax/ReactNativeAgenda"
     },
     {
         name: "React Native Agenda",
         description:"Agenda app developed in HTML, CSS, JavaScript, React Native and Firebase.",
         image:"agenda.jpg",
-        github:"https://github.com/ManuelPortero/React_Native_Chat"
+        github:"https://github.com/SteelTitansax/ReactNativeChat"
     }
     
 ]
@@ -369,20 +369,20 @@ export const reactProjects= [
         description:"Social network developed in HTML, CSS, Javascript, React and Firebase as a Database.",
         image:"moderngram.jpg",
         url:"https://moderngram.vercel.app/",
-        github:"https://github.com/SteelTitansax/moderngram"
+        github:"https://github.com/SteelTitansax/Moderngram"
     },
     {
         name: "Films Server",
         description:"Films server front end coded in HTML, CSS, JavaScript, React and ThemovieDb API. ",
         image:"films-server.png",
         url:"https://films-server2.vercel.app/",
-        github:"https://github.com/SteelTitansax/netlix"
+        github:"https://github.com/SteelTitansax/Netlix"
     },{
         name: "React Chat",
         description:"React Chat coded with React NodeJs Express and Socket.io (Youtube demo)",
         image:"ReactChat.png", 
         url:"https://www.youtube.com/watch?v=DvLnhpmG3WI",
-        github:"https://github.com/SteelTitansax/chatReact"
+        github:"https://github.com/SteelTitansax/ChatReact"
     },{
         name: "Ecommerce App",
         description:"Ecommerce App with React NodeJs and Express (Demo not available)",
