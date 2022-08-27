@@ -156,17 +156,6 @@ const Index = () =>
           </div>                
     </div>
 
-    <div className="row">
-   
-        <div className="col-md-5"/>
-
-        <div className="col-md-2"> 
-                <a className="ml-4 mt-3 bottom-link btn btn-danger border button-bottom"   href="https://rpa-portfolio.vercel.app/" >RPA Portfolio</a>
-        </div>
-   
-        <div className="col-md-5"/>
-
-</div>
 </Layout>
 
 </>

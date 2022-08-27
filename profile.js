@@ -528,20 +528,20 @@ export const powerappsProjects = [
 
 export const canvasProjects = [ 
     {
-        name: "Travel App ",
-        description:"Check my Travel app demo",
+        name: "Materials Management App",
+        description:"Check my Materials Management App demo",
         image:"canvas.png",
-        url:"https://www.youtube.com/watch?v=iwF3f8CD_zE",
+        url:"https://www.youtube.com/watch?v=wdyv9ltcdj8",
     }, {
-        name: "Helpdesk App",
-        description:"Check my Helpdesk app demo",
+        name: "Clock in Clock Out App",
+        description:"Check my Clock In Clock Out app demo",
         image:"canvas.png",
-        url:"https://www.youtube.com/watch?v=zOqqiDQbHhU",
+        url:"https://www.youtube.com/watch?v=E2cSMTFdpbI",
     }, {
-        name: "Warehouse App",
-        description:"Check my Warehouse app demo",
+        name: "Industrial Report App",
+        description:"Check my Industrial Report app demo",
         image:"canvas.png",
-        url:"https://www.youtube.com/watch?v=78Tk-FcO9zA",
+        url:"https://www.youtube.com/watch?v=e7YGG56SNFs",
     }
 ]
 
