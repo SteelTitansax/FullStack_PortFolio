@@ -529,7 +529,7 @@ export const powerappsProjects = [
 export const canvasProjects = [ 
     {
         name: "Materials Management App",
-        description:"Check my Materials Management App demo",
+        description:"Check my Materials Management App",
         image:"canvas.png",
         url:"https://www.youtube.com/watch?v=wdyv9ltcdj8",
     }, {
