@@ -23,7 +23,7 @@ const Index = () =>
                 <div className="col-md-10">
                     <h1 >Manuel Portero </h1>
                     <h3 >Full Stack Developer</h3> 
-                    <h6 style={{paddingTop:'8px'}}> I am a well educated self starter looking for work as a Front End Developer. I am an analytical,
+                    <h6 style={{paddingTop:'8px'}}> I am a well educated self starter looking for work as a Full Stack End Developer. I am an analytical,
                     good problem solver, effective in meeting deadlines as well as managing and motivating
                     others. I speak six languages and have experience of working in different countries and
                     working environments. I can communicate well and share ideas with others who do not have a
