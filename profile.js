@@ -538,10 +538,10 @@ export const canvasProjects = [
         image:"canvas.png",
         url:"https://www.youtube.com/watch?v=zOqqiDQbHhU",
     }, {
-        name: "Warehouse App",
-        description:"Check my Warehouse app demo",
+        name: "Materials Management App",
+        description:"Check my Materials Management app demo",
         image:"canvas.png",
-        url:"https://www.youtube.com/watch?v=78Tk-FcO9zA",
+        url:"https://youtu.be/xl4ZyNoQWro",
     }
 ]
 
