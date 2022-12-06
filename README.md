@@ -1,6 +1,6 @@
-#Manuel Portero's Fullstack Portfolio. 
+# Manuel Portero's Fullstack Portfolio. 
 
-##Here you can find the different Front end and Back end technologies that I've been working with during my career.
+## Here you can find the different Front end and Back end technologies that I've been working with during my career.
 
 For Setting up this portfolio clone the repo with the following command : 
 
