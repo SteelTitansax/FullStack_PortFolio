@@ -531,33 +531,18 @@ export const canvasProjects = [
         name: "Materials Management App",
         description:"Check my Materials Management App",
         image:"canvas.png",
-        url:"https://www.youtube.com/watch?v=xl4ZyNoQWro&list=PL3FqiG-8pTmETVSdn3n7qXf68sjyAbMSN&index=21",
+        url:"https://youtu.be/0WNF4t7c2TY",
     }, {
         name: "Clock in Clock Out App",
         description:"Check my Clock In Clock Out app demo",
         image:"canvas.png",
-        url:"https://www.youtube.com/watch?v=E2cSMTFdpbI",
+        url:"https://youtu.be/uYm6t_Jy1hg",
     }, {
         name: "Industrial Report App",
         description:"Check my Industrial Report app demo",
         image:"canvas.png",
-        url:"https://www.youtube.com/watch?v=e7YGG56SNFs",
+        url:"/",
     }
-]
-
-export const nocodeProjects = [ 
-   {
-        name: "Agenda",
-        description:"Agenda App developed with Appsheet",
-        image:"appsheet1.png",
-        url:"https://www.appsheet.com/start/41f87581-e4aa-4264-9932-0d49d4fa6f5a"
-    }, {
-        name: "Provider App",
-        description:"Provider App developed with Appshet",
-        image:"appsheet2.png",
-        url:"https://www.appsheet.com/start/568a42a8-23ef-4988-8bcd-f39e06bdef01"
-    }
-
 ]
 
 
