@@ -34,26 +34,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/blog.js"
     ],
-    "/canvas": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/canvas.js"
-    ],
-    "/github": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/github.js"
-    ],
-    "/portals": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/portals.js"
-    ],
-    "/powerapps": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/powerapps.js"
-    ],
     "/websites": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

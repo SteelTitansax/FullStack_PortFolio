@@ -35,10 +35,12 @@ const Index = () =>
                 </div>
 
                 <div className="col-md-2">
-                    <div>
+                    <div className="text-center">
                           <img src="fullstackProfile.jpg"  className="img-fluid" alt="Imagen perfil"/> 
                     </div>
-                    
+                    <div className="text-center">
+                          <a className="btn btn-light border" id="hire-button" href="https://profesionalwebsite-mpl.vercel.app/">Website</a>
+                    </div>
                 </div>  
             </div>
         </div>
