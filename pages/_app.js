@@ -1,5 +1,5 @@
 // import App from 'next/app'
-import 'bootswatch/dist/flatly/bootstrap.min.css'
+import 'bootswatch/dist/slate/bootstrap.min.css'
 import '../global.css'
 
 function MyApp({ Component, pageProps }) {

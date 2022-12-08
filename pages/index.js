@@ -17,19 +17,29 @@ const Index = () =>
             <div className="card card-body bg-primary text-light">
             <div className="row">
                 <div className="col-md-2">
-                    <img src="perfil.jpeg"  className="img-fluid" alt="Imagen perfil"/>
-                    <a className="btn btn-light border" id="hire-button" href="/hireme" >Hire Me</a>
+                    <div className="text-center">
+                          <img src="perfil.jpeg"  className="img-fluid" alt="Imagen perfil"/> 
+                    </div>
+                    <div className="text-center">
+                          <a className="btn btn-light border" id="hire-button" href="/hireme" >Contact</a>
+                    </div>
                 </div>
-                <div className="col-md-10">
+                <div className="col-md-8">
                     <h1 >Manuel Portero </h1>
                     <h3 >Full Stack Developer</h3> 
-                    <h6 style={{paddingTop:'8px'}}> I am a well educated self starter looking for work as a Full Stack End Developer. I am an analytical,
-                    good problem solver, effective in meeting deadlines as well as managing and motivating
-                    others. I speak six languages and have experience of working in different countries and
-                    working environments. I can communicate well and share ideas with others who do not have a
-                    scientific or engineering background.</h6>
+                    <h6 style={{paddingTop:'8px',textAlign:'justify'}}> The first phase of my task as IT was working as a Full Stack Developer. 
+                    I could code in Html, css , Jquery and React in some professional projects and I performed front end tasks creating Power Pages projects and PowerApps.
+                    I used Angular Ionic and Flask in colaborative and personal projects. Please have a look to the different Demos splitted by technology and have an idea 
+                    about my Full stack developer skills.</h6>
                    
                 </div>
+
+                <div className="col-md-2">
+                    <div>
+                          <img src="fullstackProfile.jpg"  className="img-fluid" alt="Imagen perfil"/> 
+                    </div>
+                    
+                </div>  
             </div>
         </div>
     </div>
@@ -43,11 +53,11 @@ const Index = () =>
         <div className="col-md-4">
                 <div className="card bg-light">
                     <div className="card-body card-body-skills">
-                          <h3>Skills</h3>
+                          <h3 className="text-dark">Skills</h3>
                             {
                                 skills.map(({skill,percentage},i) => (
                                     <div className="py-3" key={i}>
-                                        <h6>{skill}</h6>
+                                        <h6 className="text-primary">{skill}</h6>
                                         <div className="progress">
                                         <div className="progress-bar progress-bar-striped progress-bar-animated"
                                              role="progressbar"
@@ -66,16 +76,16 @@ const Index = () =>
         <div className="col-md-8">
                 <div className="card bg-light">
                     <div className="card-body card-body-experience">
-                          <h3>Experience</h3>
+                          <h3 className="text-dark">Experience</h3>
                            
                           <ul>
                           {
                               experiences.map (({title,description,from,to,url},i) => ( 
                                <div key={i}>
                                  <li>
-                                    <h4>{title}</h4>
-                                    <h6>{from}-{to}</h6>
-                                    <p>{description}</p>
+                                    <h4 className="text-primary">{title}</h4>
+                                    <h6 className="text-secondary">{from}-{to}</h6>
+                                    <p className="text-primary">{description}</p>
                                  </li>   
                                     <a className="btn btn-primary border know-more" href={url}>
                                         Know more 
@@ -113,14 +123,14 @@ const Index = () =>
                         {
                               projects.map(({name,description,image,url},i) => (
                                 
-                                    <div className="col-md-4 p-2" key={i}>
+                                    <div className="col-md-4 p-5" key={i}>
                                     <div className="card h-100">
                                         <div className="overflow ">
                                             <img src={`/${image}`} alt="Imagen Portfolio1" className="card-img-top border-bottom" />
                                         </div>
                                         <div className="card-body ">
-                                            <h5 className="text-center"><strong>{name}</strong></h5>
-                                            <p className="text-center">{description}</p>
+                                            <h5 className="text-center text-white"><strong>{name}</strong></h5>
+                                            <p className="text-center text-white">{description}</p>
                                             <div className="text-center">
                                             <div className="button" id="button-5">
                                                 <div id="translate"></div>
