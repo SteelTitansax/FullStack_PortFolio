@@ -34,6 +34,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/angular.js"
     ],
+    "/node": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/node.js"
+    ],
     "/react": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
