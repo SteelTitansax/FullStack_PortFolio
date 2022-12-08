@@ -416,13 +416,13 @@ export const nodeProjects= [
         name: "Node Social network ",
         description:"Social network coded with React NodeJs Express and MongoDB ",
         image:"imgshare.png", 
-        url:"https://www.youtube.com/watch?v=EFF-ZpAvQMM",
+        url:"https://youtu.be/C8DJYeXkOcI",
         github:"https://github.com/SteelTitansax/InstaManuel"
     }, {
         name: "Phone Catallogue ",
         description:"Phone Catallogue, project coded with React NodeJs and Express ",
         image:"phoneCatallogue.jpg", 
-        url:"https://www.youtube.com/watch?v=YHu35Y305xw",
+        url:"https://youtu.be/dC-AZMRFOTg",
         github:"https://github.com/SteelTitansax/PhoneCatallogue"
     },
     
