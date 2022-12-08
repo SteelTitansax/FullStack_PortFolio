@@ -366,13 +366,13 @@ export const reactProjects= [
         name: "React Chat",
         description:"React Chat coded with React NodeJs Express and Socket.io (Youtube demo)",
         image:"ReactChat.png", 
-        url:"https://www.youtube.com/watch?v=DvLnhpmG3WI",
+        url:"https://www.youtube.com/watch?v=YsCHC3Ohxi0&list=PL3FqiG-8pTmETVSdn3n7qXf68sjyAbMSN&index=15",
         github:"https://github.com/SteelTitansax/ChatReact"
     },{
         name: "Ecommerce App",
         description:"Ecommerce App with React NodeJs and Express (Demo not available)",
         image:"phoneCatallogue.jpg", 
-        url:"https://ecommerce-evolution-m551kpz5t-manuelportero.vercel.app/",
+        url:"",
         github:"https://github.com/SteelTitansax/EcommerceReact"
     },
     

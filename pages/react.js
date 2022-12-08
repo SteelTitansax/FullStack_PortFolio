@@ -39,11 +39,11 @@ const React = () =>
         <div className="col-md-4">
                 <div className="card bg-light">
                     <div className="card-body card-body-skillsReact">
-                          <h3>Skills</h3>
+                          <h3 className="text-dark">Skills</h3>
                             {
                                 reactSkills.map(({skill,percentage},i) => (
                                     <div className="py-3" key={i}>
-                                        <h6>{skill}</h6>
+                                        <h6 className="text-primary">{skill}</h6>
                                         <div className="progress">
                                         <div className="progress-bar progress-bar-striped progress-bar-animated"
                                              role="progressbar"
@@ -62,16 +62,16 @@ const React = () =>
         <div className="col-md-8">
                 <div className="card bg-light">
                     <div className="card-body card-body-experienceReact">
-                          <h3>Experience</h3>
+                          <h3 className="text-dark">Experience</h3>
                            
                           <ul>
                           {
                               reactExperiences.map (({title,description,from,to,url},i) => ( 
                                <div key={i}>
                                  <li>
-                                    <h4>{title}</h4>
-                                    <h6>{from}-{to}</h6>
-                                    <p>{description}</p>
+                                    <h4 className="text-primary">{title}</h4>
+                                    <h6 className="text-secondary">{from}-{to}</h6>
+                                    <p className="text-primary">{description}</p>
                                  </li>   
                                     <a className="btn btn-primary border know-more" href={url}>
                                         Know more 
@@ -120,8 +120,8 @@ const React = () =>
                                             <img src={`/${image}`} alt="Imagen Portfolio1" className="card-img-top border-bottom" />
                                         </div>
                                         <div className="card-body ">
-                                            <h5 className="text-center"><strong>{name}</strong></h5>
-                                            <p className="text-center">{description}</p>
+                                            <h5 className="text-center  text-white"><strong>{name}</strong></h5>
+                                            <p className="text-center  text-white">{description}</p>
                                             <div className="text-center">
                                             <a className="btn btn-info border button-card"  href ={url}>Demo</a>
                                             <a className="btn btn-secondary border button-card" href ={github}>Code</a>
@@ -152,8 +152,8 @@ const React = () =>
                                             <img src={`/${image}`} alt="Imagen Portfolio1" className="card-img-top border-bottom" />
                                         </div>
                                         <div className="card-body ">
-                                            <h5 className="text-center"><strong>{name}</strong></h5>
-                                            <p className="text-center">{description}</p>
+                                            <h5 className="text-center text-white"><strong>{name}</strong></h5>
+                                            <p className="text-center text-white">{description}</p>
                                             <div className="text-center">
                                             <a className="btn btn-secondary border button-card" href ={github}>Code</a>
                                             </div>
