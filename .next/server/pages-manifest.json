@@ -3,5 +3,7 @@
   "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
   "/": "pages/index.js",
-  "/fullstack": "pages/fullstack.js"
+  "/fullstack": "pages/fullstack.js",
+  "/powerapps": "pages/powerapps.js",
+  "/canvas": "pages/canvas.js"
 }
