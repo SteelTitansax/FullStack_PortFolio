@@ -34,7 +34,7 @@ const Index = () =>
                    
                 </div>
 
-                <div className="col-md-2">
+                <div className="col-md-2 text-center">
                     <div className="text-center">
                           <img src="fullstackProfile.jpg"  className="img-fluid" alt="Imagen perfil"/> 
                     </div>
@@ -125,7 +125,7 @@ const Index = () =>
                         {
                               projects.map(({name,description,image,url},i) => (
                                 
-                                    <div className="col-md-4 p-5" key={i}>
+                                    <div className="col-md-4 p-3" key={i}>
                                     <div className="card h-100">
                                         <div className="overflow ">
                                             <img src={`/${image}`} alt="Imagen Portfolio1" className="card-img-top border-bottom" />
