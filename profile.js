@@ -528,20 +528,37 @@ export const powerappsProjects = [
 
 export const canvasProjects = [ 
     {
-        name: "Materials Management App",
-        description:"Check my Materials Management App",
-        image:"canvas.png",
-        url:"https://youtu.be/0WNF4t7c2TY",
+        name: "Travel App",
+        description:"Check my App",
+        image:"travel.png",
+        url:"https://www.youtube.com/watch?v=PU05Djraius",
     }, {
-        name: "Clock in Clock Out App",
-        description:"Check my Clock In Clock Out app demo",
-        image:"canvas.png",
-        url:"https://youtu.be/uYm6t_Jy1hg",
+        name: "AD App",
+        description:"Check my AD app demo",
+        image:"AD.png",
+        url:"https://www.youtube.com/watch?v=ebav5AzdcA8",
     }, {
-        name: "Industrial Report App",
-        description:"Check my Industrial Report app demo",
-        image:"canvas.png",
-        url:"/",
+        name: "Catallogue",
+        description:"Check my Catallogue app demo",
+        image:"Catallogue.png",
+        url:"/https://www.youtube.com/watch?v=B6xMMr9jmuA",
+    },
+    {
+        name: "Training",
+        description:"Check my Training App",
+        image:"Training.png",
+        url:"https://www.youtube.com/watch?v=lxrjx0QqKQw",
+    }, {
+        name: "Warehouse app",
+        description:"Check my Warehouse app demo",
+        image:"Warehouse.png",
+        url:"https://www.youtube.com/watch?v=0WNF4t7c2TY",
+    }
+    , {
+        name: "Ai Forms Reader",
+        description:"Check my Ai Forms Reader app demo",
+        image:"Ai-builder.png",
+        url:"https://www.youtube.com/watch?v=2xeBpsux4R4",
     }
 ]
 
@@ -563,23 +580,5 @@ export const fullstackProjects = [
         url:"/"
 
     },
- 
- ]
-
- export const nextProjects = [ 
-    {
-         name: "FullStack Portfolio",
-         description:"Portfolio App developed with NextJs",
-         image:"nextjs.jpg",
-         url:"https://github.com/ManuelPortero/Portfolio_NextJS"
-     },
-     {
-        name: "Devops Portfolio",
-         description:"Portfolio App developed with NextJs",
-         image:"nextjs.jpg",
-         url:"https://github.com/ManuelPortero/Devops_Portfolio"
-    }
-
-    
  
  ]
