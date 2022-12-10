@@ -33,6 +33,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/canvas.js"
+    ],
+    "/powerapps": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/powerapps.js"
     ]
   },
   "ampFirstPages": []
