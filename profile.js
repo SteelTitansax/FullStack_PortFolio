@@ -518,10 +518,10 @@ export const powerappsProjects = [
         image:"canvas.png",
         url:"/canvas",
     }, {
-        name: "PowerApps Portal",
-        description:"Check my portal app catallogue",
-        image:"portals.jpeg",
-        url:"/portals",
+        name: "Model Driven Apps",
+        description:"Check my model driven catallogue",
+        image:"modelDriven.jpg",
+        url:"/modeldriven",
     }
 ]
 
@@ -562,6 +562,19 @@ export const canvasProjects = [
     }
 ]
 
+export const modelDrivenProjects = [ 
+    {
+        name: "Incidences App",
+        description:"Check my Incidences app demo",
+        image:"Warehouse.png",
+        url:"https://www.youtube.com/watch?v=cEohyFVDD3k&list=PL3FqiG-8pTmETVSdn3n7qXf68sjyAbMSN&index=24",
+    }, {
+        name: "Assets App",
+        description:"(Demo not Available)",
+        image:"Catallogue.png",
+        url:"/",
+    }
+]
 
 export const fullstackProjects = [ 
     
