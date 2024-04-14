@@ -111,7 +111,6 @@ const FullStack = () =>
                             <hr className="bg-white "/>
                         </div>        
                         
-                        <div className="col-md-3 p-2" />
 
                         {
                               fullstackProjects.map(({name,description,image,github,url},i) => (
@@ -137,7 +136,6 @@ const FullStack = () =>
                           }                   
 
                         
-                    <div className="col-md-3 p-2" />
 
                     </div>
 
