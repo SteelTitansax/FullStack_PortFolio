@@ -462,8 +462,8 @@ export const projects = [
         image:"nodejs.jpg",
         url:"/node",
     },  {
-        name: "Full Stack",
-        description:"Please check out the full stack app section of this portfolio (coming soon)",
+        name: "Flask/Django",
+        description:"Please check out the Flask/Django app section of this portfolio (coming soon)",
         image:"flask.jpeg",
         url:"/fullstack",
     },  {
@@ -590,6 +590,20 @@ export const fullstackProjects = [
         description:"Gestor Documental coded with React and python Flask (Demo not Ready)",
         image:"flask.jpeg",
         github:"https://github.com/SteelTitansax/Gestor_Documental_Flask",
+        url:"/"
+
+    },{
+        name: "CloudCherryTree",
+        description:"Gestor Documental coded with Flask hosted with Azure App Services",
+        image:"flask.jpeg",
+        github:"https://github.com/SteelTitansax/CloudCherryTree",
+        url:"https://cloudcherrytree.azurewebsites.net/"
+
+    },{
+        name: "Django Inventory App",
+        description:"Inventory App coded with Django (github not availabled, demo coming soon)",
+        image:"flask.jpeg",
+        github:"/",
         url:"/"
 
     },
