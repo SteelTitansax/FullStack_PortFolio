@@ -336,13 +336,14 @@ export const reactNativeProjects= [
         name: "React Native Chat",
         description:"React Native Chat developed with HTML, CSS, Javascript, React Native and Firebase.",
         image:"chat.jpg",
-        github:"https://github.com/SteelTitansax/ReactNativeAgenda"
+        github:"https://github.com/SteelTitansax/ReactNativeChat"
     },
     {
         name: "React Native Agenda",
         description:"Agenda app developed in HTML, CSS, JavaScript, React Native and Firebase.",
         image:"agenda.jpg",
-        github:"https://github.com/SteelTitansax/ReactNativeChat"
+        github:"https://github.com/SteelTitansax/ReactNativeAgenda"
+        
     }
     
 ]
