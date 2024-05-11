@@ -393,7 +393,7 @@ export const angularProjects= [
         description:"Weather App coded in HTML ,CSS, JavaScript, Angular and OpenWeatherMap API",
         image:"angular-weather-app.jpg",
         url:"https://angular-weather-app-green.vercel.app/",
-        github:"https://github.com/SteelTitansax/WeatherAoo"
+        github:"https://github.com/SteelTitansax/angularClimaWeatherApp"
     },
     {
         name: "Ionic Cronometer App",
