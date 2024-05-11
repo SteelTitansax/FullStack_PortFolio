@@ -425,6 +425,18 @@ export const nodeProjects= [
         image:"phoneCatallogue.jpg", 
         url:"https://youtu.be/dC-AZMRFOTg",
         github:"https://github.com/SteelTitansax/PhoneCatallogue"
+    }, {
+        name: "Spfx WebPart Form ",
+        description:"Phone Catallogue, project coded with React NodeJs and Express ",
+        image:"phoneCatallogue.jpg",   
+        url:"",
+        github:""
+    }, {
+        name: "Spfx WebPart List Reader",
+        description:"Phone Catallogue, project coded with React NodeJs and Express ",
+        image:"phoneCatallogue.jpg", 
+        url:"",
+        github:""
     },
     
 ]
