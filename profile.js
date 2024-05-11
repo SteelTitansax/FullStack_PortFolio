@@ -386,28 +386,28 @@ export const angularProjects= [
         description:"Todo App developed with HTML ,CSS , Javascript and AngularJS(+3) ",
         image:"Todo-App.jpg",
         url:"https://todo-app-eta-seven.vercel.app/",
-        github:"https://github.com/ManuelPortero/TodoApp"
+        github:"https://github.com/SteelTitansax/TodoApp"
     },
     {
         name: "Angular Weather App",
         description:"Weather App coded in HTML ,CSS, JavaScript, Angular and OpenWeatherMap API",
         image:"angular-weather-app.jpg",
         url:"https://angular-weather-app-green.vercel.app/",
-        github:"https://github.com/ManuelPortero/WeatherAoo"
+        github:"https://github.com/SteelTitansax/WeatherAoo"
     },
     {
         name: "Ionic Cronometer App",
         description:"Cronometer App coded in HTML ,CSS, JavaScript and Ionic as a PWA framework",
         image:"cronometer.jpg",
         url:"https://ionic2.vercel.app/",
-        github:"https://github.com/ManuelPortero/ionic2"
+        github:"https://github.com/SteelTitansax/ionic2"
     },
     {
         name: "Photo Gallery App",
         description:"Photo Gallery App coded in HTML ,CSS, JavaScript and Ionic as a PWA framework",
         image:"PhotoGallery.png",
         url:"https://photogallery-ochre.vercel.app/places",
-        github:"https://github.com/ManuelPortero/ionic1"
+        github:"https://github.com/SteelTitansax/ionic1"
     }
     
 ]
