@@ -572,6 +572,11 @@ export const canvasProjects = [
         description:"Check my Ai Forms Reader app demo",
         image:"Ai-builder.png",
         url:"https://www.youtube.com/watch?v=2xeBpsux4R4",
+    },{
+        name: "PowerApp RPA Monitoring Tool",
+        description:"RPA Monitoring tool app solution",
+        image:"canvas.png",
+        url:"https://www.youtube.com/watch?v=1eZs-ZMDvl4"
     }
 ]
 
