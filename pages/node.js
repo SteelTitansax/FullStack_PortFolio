@@ -115,7 +115,6 @@ const Node = () =>
                             <h3 className="text-center text-light"> NodeJS</h3>
                             <hr className="bg-white "/>
                         </div>        
-                        <div className="col-md-3 p-2" />
                         {
                               nodeProjects.map(({name,description,image,github,url},i) => (
                                 
