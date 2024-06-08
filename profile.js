@@ -476,7 +476,7 @@ export const projects = [
         url:"/node",
     },  {
         name: "Flask/Django",
-        description:"Please check out the Flask/Django app section of this portfolio (coming soon)",
+        description:"Please check out the Flask/Django app section of this portfolio",
         image:"flask.jpeg",
         url:"/fullstack",
     },  {
