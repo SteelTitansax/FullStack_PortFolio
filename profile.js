@@ -487,7 +487,7 @@ export const projects = [
     },  {
         name: "C #",
         description:"Please check out the C# development section of this portfolio",
-        image:"c_sharp.jpg",
+        image:"c_sharp.jpeg",
         url:"/",
     }
 
@@ -618,10 +618,10 @@ export const fullstackProjects = [
         url:"https://cloudcherrytree.azurewebsites.net/"
 
     },{
-        name: "Django Inventory App",
-        description:"Inventory App coded with Django (github not availabled, demo coming soon)",
+        name: "Django ToDo App",
+        description:"ToDo App coded with Django",
         image:"flask.jpeg",
-        github:"/",
+        github:"https://github.com/SteelTitansax/djangoCRUD",
         url:"/"
 
     },
