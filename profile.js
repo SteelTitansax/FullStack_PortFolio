@@ -598,7 +598,7 @@ export const fullstackProjects = [
     
     {
         name: "RPA Launcher",
-        description:"RPA Launcher developed with React as front end and Python Flask as back end",
+        description:"RPA Launche, React (front end) and Python Flask (back end)",
         image:"flask.jpeg",
         github:"https://github.com/SteelTitansax/Automation_App_Launcher",
         url:"https://youtu.be/m0hqxM6G7t4"
