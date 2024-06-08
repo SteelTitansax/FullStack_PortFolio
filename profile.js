@@ -485,10 +485,10 @@ export const projects = [
         image:"canvas.png",
         url:"/powerapps",
     },  {
-        name: "Websites",
-        description:"Please check out the websites development section of this portfolio",
-        image:"web.jpg",
-        url:"/websites",
+        name: "C #",
+        description:"Please check out the C# development section of this portfolio",
+        image:"c_sharp.jpg",
+        url:"/",
     }
 
 ]
