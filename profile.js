@@ -620,7 +620,7 @@ export const fullstackProjects = [
     },{
         name: "Django ToDo App",
         description:"ToDo App coded with Django",
-        image:"flask.jpeg",
+        image:"django.jpeg",
         github:"https://github.com/SteelTitansax/djangoCRUD",
         url:"/"
 
