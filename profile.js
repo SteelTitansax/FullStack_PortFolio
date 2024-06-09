@@ -619,7 +619,7 @@ export const fullstackProjects = [
 
     },{
         name: "Django ToDo App",
-        description:"ToDo App coded with Django",
+        description:"ToDo App coded in python using Django as framework",
         image:"django.jpeg",
         github:"https://github.com/SteelTitansax/djangoCRUD",
         url:"/"
