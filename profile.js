@@ -477,7 +477,7 @@ export const projects = [
     },  {
         name: "Flask/Django",
         description:"Please check out the Flask/Django app section of this portfolio",
-        image:"flask.jpeg",
+        image:"flaskDjango.jpeg",
         url:"/fullstack",
     },  {
         name: "PowerApps",
