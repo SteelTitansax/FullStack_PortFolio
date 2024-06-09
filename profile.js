@@ -427,13 +427,13 @@ export const nodeProjects= [
         github:"https://github.com/SteelTitansax/PhoneCatallogue"
     }, {
         name: "Spfx WebPart Form ",
-        description:"Phone Catallogue, project coded with React NodeJs and Express ",
+        description:"Sharepoint WebPart coded in NodeJs and spfx ",
         image:"sharepoint.jpeg",   
         url:"",
         github:"https://github.com/SteelTitansax/spfx-interaction"
     }, {
         name: "Spfx WebPart List Reader",
-        description:"Phone Catallogue, project coded with React NodeJs and Express ",
+        description:"Sharepoint WebPart coded in NodeJs and spfx ",
         image:"sharepoint.jpeg",   
         url:"",
         github:"https://github.com/SteelTitansax/spfx-render"
@@ -486,7 +486,7 @@ export const projects = [
         url:"/powerapps",
     },  {
         name: "C #",
-        description:"Please check out the C# development section of this portfolio",
+        description:"Please check out the C# development section of this portfolio (not available, comming soon)",
         image:"c_sharp.jpeg",
         url:"/",
     }
