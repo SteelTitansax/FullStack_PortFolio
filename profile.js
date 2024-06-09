@@ -622,7 +622,7 @@ export const fullstackProjects = [
         description:"ToDo App coded in python using Django as framework",
         image:"django.jpeg",
         github:"https://github.com/SteelTitansax/djangoCRUD",
-        url:"/"
+        url:"https://www.youtube.com/watch?v=X2sH5o686I0"
 
     },
  
