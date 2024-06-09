@@ -428,13 +428,13 @@ export const nodeProjects= [
     }, {
         name: "Spfx WebPart Form ",
         description:"Phone Catallogue, project coded with React NodeJs and Express ",
-        image:"phoneCatallogue.jpg",   
+        image:"sharepoint.jpeg",   
         url:"",
         github:"https://github.com/SteelTitansax/spfx-interaction"
     }, {
         name: "Spfx WebPart List Reader",
         description:"Phone Catallogue, project coded with React NodeJs and Express ",
-        image:"phoneCatallogue.jpg", 
+        image:"sharepoint.jpeg",   
         url:"",
         github:"https://github.com/SteelTitansax/spfx-render"
     },
