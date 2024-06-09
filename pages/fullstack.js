@@ -16,7 +16,7 @@ const FullStack = () =>
             <div className="card card-body bg-primary text-light">
             <div className="row">
                 <div className="col-md-2">
-                    <img src="flask.jpeg" className="mt-1" height="95px" alt="React perfil"/>
+                    <img src="flaskDjango.jpeg" className="mt-1" height="95px" alt="React perfil"/>
                 </div>
                 <div className="col-md-10">
                     <h1 >FullStack   </h1>
