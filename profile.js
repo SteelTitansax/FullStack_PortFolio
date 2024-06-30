@@ -624,6 +624,13 @@ export const fullstackProjects = [
         github:"https://github.com/SteelTitansax/djangoCRUD",
         url:"https://www.youtube.com/watch?v=X2sH5o686I0"
 
-    },
+    },{
+        name: "Django Inventory App",
+        description:"ToDo App coded in python using Django as framework",
+        image:"django.jpeg",
+        github:"https://github.com/SteelTitansax/inventoryApp",
+        url:"https://www.youtube.com/watch?v=C2TZD2q5Uy8"
+
+    } 
  
  ]
