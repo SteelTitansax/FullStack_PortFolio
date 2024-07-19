@@ -425,19 +425,7 @@ export const nodeProjects= [
         image:"phoneCatallogue.jpg", 
         url:"https://youtu.be/dC-AZMRFOTg",
         github:"https://github.com/SteelTitansax/PhoneCatallogue"
-    }, {
-        name: "Spfx WebPart Form ",
-        description:"Sharepoint WebPart coded in NodeJs and spfx ",
-        image:"sharepoint.jpeg",   
-        url:"",
-        github:"https://github.com/SteelTitansax/spfx-interaction"
-    }, {
-        name: "Spfx WebPart List Reader",
-        description:"Sharepoint WebPart coded in NodeJs and spfx ",
-        image:"sharepoint.jpeg",   
-        url:"",
-        github:"https://github.com/SteelTitansax/spfx-render"
-    },
+    }
     
 ]
 
