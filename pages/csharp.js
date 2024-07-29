@@ -1,6 +1,6 @@
 import Layout from '../components/Layout'
 import Navbar from '../components/Navbar'
-import {fullstackSkills, fullstackExperiences, fullstackProjects, reactNativeProjects, Otherprojects, nodeProjects, nocodeProjects} from '../profile'
+import {cSharpSkills, fullstackExperiences, cSharpProjects, reactNativeProjects, Otherprojects, nodeProjects, nocodeProjects} from '../profile'
 import Link from 'next/link'
 
 
@@ -41,7 +41,7 @@ const CSharp = () =>
                     <div className="card-body card-body-skillsFullStack">
                           <h3 className="text-dark">Skills</h3>
                             {
-                                fullstackSkills.map(({skill,percentage},i) => (
+                                cSharpSkills.map(({skill,percentage},i) => (
                                     <div className="py-3" key={i}>
                                         <h6 className="text-primary">{skill}</h6>
                                         <div className="progress">
@@ -113,7 +113,7 @@ const CSharp = () =>
                         
 
                         {
-                              fullstackProjects.map(({name,description,image,github,url},i) => (
+                              cSharpProjects.map(({name,description,image,github,url},i) => (
                                 
                                     <div className="col-md-3 p-2" key={i}>
                                     <div className="card h-100">
