@@ -364,6 +364,36 @@ export const reactNativeProjects= [
     
 ]
 
+export const cSharpProjects= [
+    {
+        name: "Walks API ",
+        description:"NZ Walks C# Api ",
+        image:"c_sharp.jpeg", 
+        url:"",
+        github:"https://github.com/SteelTitansax/cSharpNzWalksAPI"
+    }, {
+        name: "MVC C# App",
+        description:"Running Club C# App following the MVC pattern ",
+        image:"c_sharp.jpeg", 
+        url:"https://youtu.be/dC-AZMRFOTg",
+        github:"https://github.com/SteelTitansax/PhoneCatallogue"
+    },{
+        name: "React + C# App",
+        description:"Hotel Booking App following the DDD pattern ",
+        image:"c_sharp.jpeg", 
+        url:"https://youtu.be/dC-AZMRFOTg",
+        github:"https://github.com/SteelTitansax/PhoneCatallogue"
+    },{
+        name: "Blazor / .NET App",
+        description:"Hotel Booking App following the MVC pattern with blazor (no demo)",
+        image:"c_sharp.jpeg", 
+        url:"",
+        github:"/"
+    }
+    
+]
+
+
 
 export const reactProjects= [
     {
