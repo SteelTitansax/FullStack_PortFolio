@@ -16,12 +16,12 @@ const CSharp = () =>
             <div className="card card-body bg-primary text-light">
             <div className="row">
                 <div className="col-md-2">
-                    <img src="flaskDjango.jpeg" className="mt-1" height="95px" alt="React perfil"/>
+                    <img src="c_sharp.jpeg" className="mt-1" height="95px" alt="c_sharp logo"/>
                 </div>
                 <div className="col-md-10">
-                    <h1 >FullStack   </h1>
-                    <h3>Front end / Back end Framework </h3> 
-                    <h6 style={{paddingTop:'8px'}}>Full-stack refers to a group of programming languages and tools a developer learns to handle both the front-end and back-end development of a website.In this section we refer to Flask as a back end.</h6>
+                    <h1 >C Sharp   </h1>
+                    <h3>Fullstack Code Language </h3> 
+                    <h6 style={{paddingTop:'8px'}}>C# (pronounced "C-sharp") is a modern, object-oriented programming language developed by Microsoft. It is part of the .NET framework and is designed for building a wide range of applications, from web and mobile apps to desktop software and games. C# is known for its simplicity, versatility, and strong type safety, making it a popular choice among developers. It supports features like garbage collection, exception handling, and asynchronous programming, which help streamline the development process.</h6>
                    
                 </div>
             </div>
