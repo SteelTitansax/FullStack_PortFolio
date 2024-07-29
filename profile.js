@@ -375,14 +375,14 @@ export const cSharpProjects= [
         name: "MVC C# App",
         description:"Running Club C# App following the MVC pattern ",
         image:"c_sharp.jpeg", 
-        url:"https://youtu.be/dC-AZMRFOTg",
-        github:"https://github.com/SteelTitansax/PhoneCatallogue"
+        url:"",
+        github:"https://github.com/SteelTitansax/runningClubAlbumDotNet"
     },{
         name: "React + C# App",
         description:"Hotel Booking App following the DDD pattern ",
         image:"c_sharp.jpeg", 
-        url:"https://youtu.be/dC-AZMRFOTg",
-        github:"https://github.com/SteelTitansax/PhoneCatallogue"
+        url:"",
+        github:"https://github.com/SteelTitansax/cSharpApi/tree/main/Backend"
     },{
         name: "Blazor / .NET App",
         description:"Hotel Booking App following the MVC pattern with blazor (no demo)",
