@@ -23,6 +23,21 @@ export const skills = [
     }
 ]
 
+export const cSharpSkills = [ 
+    {
+        skill: 'Html & CSS & JavaScript',
+        percentage : 100,
+    },
+    {
+        skill: 'ASP.Net',
+        percentage : 100,
+    },{
+        skill: 'Blazore',
+        percentage : 80,
+    }
+    
+]
+
 export const fullstackSkills = [ 
     {
         skill: 'Html & CSS & JavaScript',
@@ -37,6 +52,7 @@ export const fullstackSkills = [
     }
     
 ]
+
 
 
 export const nextSkills = [ 
