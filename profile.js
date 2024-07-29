@@ -476,7 +476,7 @@ export const projects = [
         name: "C #",
         description:"Please check out the C# development section of this portfolio (not available, comming soon)",
         image:"c_sharp.jpeg",
-        url:"/",
+        url:"/csharp",
     }
 
 ]
