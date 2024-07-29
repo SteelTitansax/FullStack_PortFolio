@@ -366,8 +366,8 @@ export const reactNativeProjects= [
 
 export const cSharpProjects= [
     {
-        name: "Walks API secured with JWT (Json Web Token) ",
-        description:"NZ Walks C# Api ",
+        name: "Walks API",
+        description:"NZ Walks C# Api secured with JWT (Json Web Token)",
         image:"c_sharp.jpeg", 
         url:"",
         github:"https://github.com/SteelTitansax/cSharpNzWalksAPI"
