@@ -520,7 +520,7 @@ export const projects = [
         url:"/powerapps",
     },  {
         name: "C #",
-        description:"Please check out the C# development section of this portfolio (not available, comming soon)",
+        description:"Please check out the C# development section of this portfolio",
         image:"c_sharp.jpeg",
         url:"/csharp",
     }
