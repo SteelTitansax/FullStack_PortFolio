@@ -367,19 +367,19 @@ export const reactNativeProjects= [
 export const cSharpProjects= [
     {
         name: "Walks API",
-        description:"NZ Walks C# Api secured with JWT (no demo, code available)",
+        description:"NZ Walks C# Api secured with JWT (only code available)",
         image:"c_sharp.jpeg", 
         url:"",
         github:"https://github.com/SteelTitansax/cSharpNzWalksAPI"
     }, {
         name: "MVC C# App",
-        description:"Running Club C# App following the MVC pattern (no demo, code available)",
+        description:"Running Club C# App following the MVC pattern (only code available)",
         image:"c_sharp.jpeg", 
         url:"",
         github:"https://github.com/SteelTitansax/runningClubAlbumDotNet"
     },{
         name: "React + C# App",
-        description:"Hotel Booking App following the DDD pattern (no demo, code available)",
+        description:"Hotel Booking App following the DDD pattern (only code available)",
         image:"c_sharp.jpeg", 
         url:"",
         github:"https://github.com/SteelTitansax/cSharpApi/tree/main/Backend"
