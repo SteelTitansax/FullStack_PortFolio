@@ -471,6 +471,13 @@ export const nodeProjects= [
         image:"phoneCatallogue.jpg", 
         url:"https://youtu.be/dC-AZMRFOTg",
         github:"https://github.com/SteelTitansax/PhoneCatallogue"
+    },
+     {
+        name: "Onboarder(SPFX solution)",
+        description:"Onboarder automation using SPFX and PowerAutomate ",
+        image:"AD.png", 
+        url:"https://www.youtube.com/watch?v=nATSOt9eyeQ",
+        github:"https://github.com/SteelTitansax/onboarderSolution"
     }
     
 ]
